@@ -1833,28 +1833,3 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 		}
 	}
-
-	.icon {
-		&.svg {
-			width: 48px;
-			height: 48px;
-			display: inline-block;
-			&.style1 {
-				background-color: _palette(accent2, bg);
-			}
-			&.style2 {
-				background-color: _palette(accent3, bg);
-			}
-			&.style3 {
-				background-color: _palette(accent4, bg);
-			}
-			&.jekyll {
-				-webkit-mask: url('images/jekyll-logo-black.svg');
-				mask: url('images/jekyll-logo-black.svg');
-				-webkit-mask-size: contain;
-				-webkit-mask-repeat: no-repeat;
-				mask-size: contain ;
-				mask-repeat:no-repeat;
-			}
-		}
-	}
