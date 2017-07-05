@@ -3,7 +3,7 @@ layout: page
 title:  "Posty McPost Face"
 date:   2017-07-05 09:42:05 -0500
 categories: post test sample
-blurb: This time is personal
+blurb: This time it is personal
 ---
 <!-- 
 syntax languages
