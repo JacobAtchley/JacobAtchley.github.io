@@ -10,7 +10,7 @@ syntax languages
 https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers
  -->
 
-#A C# Snippet
+# A CSharp Snippet
 
 {% highlight csharp %}
 public static void Main(string[])
@@ -19,7 +19,7 @@ public static void Main(string[])
 }
 {% endhighlight %}
 
-#An HTML Snippet
+# An HTML Snippet
 
 {% highlight html %}
 <html>
@@ -33,12 +33,12 @@ public static void Main(string[])
 </html>
 {% endhighlight %}
 
-#I Can
+# I Can
 * Tie My Shoes
 * Ride A Bike
     * Do Wheelies
     * Go Fast
 * Jump Rope
 
-Fox Mulder Once Said:
+# Fox Mulder Once Said:
 > The truth is out there.
